@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<gpx xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxedw="http://www.gpxeditor.co.uk/xmlschemas/WaypointExtension/v1" xmlns:gpxedts="http://www.gpxeditor.co.uk/xmlschemas/TrackSegExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" creator="GPXEditor" version="1.1" xmlns="http://www.topografix.com/GPX/1/1">
+  <trk>
+    <name>Untitled</name>
+    <trkseg>
+      <trkpt lat="49.84102" lon="24.0312" />
+      <trkpt lat="49.84217" lon="24.03063" />
+    </trkseg>
+    <trkseg>
+      <trkpt lat="49.84217" lon="24.03063" />
+      <trkpt lat="49.84248" lon="24.03202" />
+    </trkseg>
+    <trkseg>
+      <trkpt lat="49.84248" lon="24.03202" />
+      <trkpt lat="49.84158" lon="24.0327" />
+    </trkseg>
+    <trkseg>
+      <trkpt lat="49.84158" lon="24.0327" />
+      <trkpt lat="49.83999" lon="24.03372" />
+    </trkseg>
+    <trkseg>
+      <trkpt lat="49.83999" lon="24.03372" />
+      <trkpt lat="49.84042" lon="24.03512" />
+    </trkseg>
+    <trkseg>
+      <trkpt lat="49.84042" lon="24.03512" />
+      <trkpt lat="49.8394" lon="24.0353" />
+    </trkseg>
+    <trkseg>
+      <trkpt lat="49.8394" lon="24.0353" />
+      <trkpt lat="49.83934" lon="24.03241" />
+    </trkseg>
+    <trkseg>
+      <trkpt lat="49.83934" lon="24.03241" />
+      <trkpt lat="49.84008" lon="24.03163" />
+    </trkseg>
+    <trkseg>
+      <trkpt lat="49.84008" lon="24.03163" />
+      <trkpt lat="49.84091" lon="24.02995" />
+    </trkseg>
+    <trkseg>
+      <trkpt lat="49.84091" lon="24.02995" />
+      <trkpt lat="49.84117" lon="24.03096" />
+    </trkseg>
+    <trkseg>
+      <trkpt lat="49.84117" lon="24.03096" />
+      <trkpt lat="49.84103" lon="24.03119" />
+    </trkseg>
+  </trk>
+</gpx>
